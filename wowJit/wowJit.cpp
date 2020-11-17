@@ -1,4 +1,4 @@
-﻿/* wowJit - Call 32bit NtDLL API directly from WoW64 Layer
+﻿/* wow64Jit - Call 32bit NtDLL API directly from WoW64 Layer
  * author: aaaddress1@chroot.org
  *
  * inspired by ReWolf's blog: Mixing x86 with x64 code
